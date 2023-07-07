@@ -10,7 +10,7 @@ import Settings from './pages/Settings';
 import Account from './pages/Account';
 import Users from './pages/Users';
 import PageNotFound from './pages/PageNotFound';
-import GlobalStyles from './styles/GLobalStyles';
+import GlobalStyles from './styles/GlobalStyles';
 import AppLayout from './ui/AppLayout';
 import { Toaster } from 'react-hot-toast';
 import Booking from './pages/Booking';
